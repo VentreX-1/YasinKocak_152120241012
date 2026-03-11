@@ -38,7 +38,7 @@ int main()
         }
         else if (input == "UNDO")
         {
-
+            undo();
         }
         else
         {
